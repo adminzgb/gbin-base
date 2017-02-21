@@ -1,0 +1,6 @@
+com\gbin\base\model\BasicModel.class
+com\gbin\base\enums\ReturnCode.class
+com\gbin\base\util\NumberUtil.class
+com\gbin\base\model\JsonMessage.class
+com\gbin\base\util\ShortUUID.class
+com\gbin\base\util\X.class
